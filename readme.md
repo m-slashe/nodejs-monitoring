@@ -33,3 +33,7 @@ Verificar se é possivel importar dashboard no provisionamento das instancias
 https://github.com/google/cadvisor
 
 ### Aplicação Node
+
+### Linux
+
+Para funcionar no linux dar um replace do `host.docker.internal` por `172.17.0.1`
