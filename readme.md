@@ -2,6 +2,10 @@
 
 ### Prometheus
 
+https://github.com/iamseth/oracledb_exporter
+
+https://grafana.com/grafana/dashboards/3333
+
 #### Expressions
 
 https://prometheus.io/docs/prometheus/latest/querying/basics/
@@ -19,6 +23,7 @@ https://grafana.com/
 https://grafana.com/grafana/dashboards
 
 Node Exporter Dashboard - 1860
+
 Docker and system monitoring - 893 (https://grafana.com/grafana/dashboards/893)
 
 Verificar se é possivel importar dashboard no provisionamento das instancias
