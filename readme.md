@@ -6,6 +6,8 @@ https://github.com/iamseth/oracledb_exporter
 
 https://grafana.com/grafana/dashboards/3333
 
+https://prometheus.io/docs/prometheus/latest/querying/functions
+
 #### Expressions
 
 https://prometheus.io/docs/prometheus/latest/querying/basics/

@@ -52,7 +52,7 @@
       "steppedLine": false,
       "targets": [
         {
-          "expr": "rate(http_request_duration_seconds_count[5m])",
+          "expr": "increase(http_request_duration_seconds_count[1m])",
           "instant": false,
           "interval": "",
           "legendFormat": "{{path}}",
